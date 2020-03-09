@@ -9,6 +9,8 @@ A C# dotnet core web app made with Bootstrap Components that provides mediatatio
 ![2020-03-09 16_53_40-Resources](https://user-images.githubusercontent.com/12942076/76256678-bb5dfe00-6226-11ea-9002-19b1d4146268.png)
 
 
-links and images for used for site include
-https://www.gaiam.com/blogs/discover/meditation-101-techniques-benefits-and-a-beginner-s-how-to
-https://www.calm.com/breathe
+links and images used for resources and homepage carousel slideshow 
+<ul>
+<li>https://www.gaiam.com/blogs/discover/meditation-101-techniques-benefits-and-a-beginner-s-how-to </li>
+<li>https://www.calm.com/breathe</li>
+</ul>
