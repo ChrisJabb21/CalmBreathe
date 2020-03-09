@@ -1,6 +1,5 @@
 # CalmBreathe
 A C# dotnet core web app made with Bootstrap Components that provides mediatation and deep breathing resources. 
-current version deployed with Azure Web Services https://calmbreathe1.azurewebsites.net/
 
 [![CalmBreathe_2020-03-01 22_07_38-](https://user-images.githubusercontent.com/12942076/76255757-20185900-6225-11ea-982a-a59f3385e3fc.png)](url)
 
@@ -8,3 +7,8 @@ current version deployed with Azure Web Services https://calmbreathe1.azurewebsi
 
 
 ![2020-03-09 16_53_40-Resources](https://user-images.githubusercontent.com/12942076/76256678-bb5dfe00-6226-11ea-9002-19b1d4146268.png)
+
+
+links and images for used for site include
+https://www.gaiam.com/blogs/discover/meditation-101-techniques-benefits-and-a-beginner-s-how-to
+https://www.calm.com/breathe
