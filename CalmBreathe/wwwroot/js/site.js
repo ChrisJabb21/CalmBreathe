@@ -17,7 +17,7 @@ $(document).ready(function () {
     $(".item2").click(function () {
         $("#myCarousel").carousel(1);
     });
-   
+
 
     // Enable Carousel Controls
     $(".left").click(function () {
@@ -26,4 +26,4 @@ $(document).ready(function () {
     $(".right").click(function () {
         $("#myCarousel").carousel("next");
     });
-}
+})
